@@ -1,0 +1,23 @@
+{
+  "name": "cicdrepo",
+  "version": "1.0.0",
+  "description": "github actions learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eropick/cicd-test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eropick/cicd-test-repo/issues"
+  },
+  "homepage": "https://github.com/eropick/cicd-test-repo#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
