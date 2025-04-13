@@ -1,5 +1,7 @@
+[![Example CI](https://github.com/eropick/cicd-test-repo/actions/workflows/ci.yml/badge.svg)](https://github.com/eropick/cicd-test-repo/actions/workflows/ci.yml)
+
 # cicd-test-repo
 github actions learning
 
 ---
-test
+github actions test
